@@ -93,3 +93,43 @@ Click on `Use this template` button and follow instructions, next clone it to yo
 └── yarn.lock
 
 ```
+
+## Used packages 📦
+
+* @babel/core
+* @babel/preset-env
+* autoprefixer
+* babel-jest
+* babel-loader
+* clean-webpack-plugin
+* copy-webpack-plugin
+* core-js
+* css-loader
+* eslint
+* eslint-config-airbnb
+* eslint-config-prettier
+* eslint-plugin-import
+* eslint-plugin-jsx-a11y
+* eslint-plugin-prettier
+* eslint-plugin-react
+* eslint-plugin-react-hooks
+* file-loader
+* gh-pages
+* html-loader
+* html-webpack-plugin
+* jest
+* mini-css-extract-plugin
+* minimist
+* optimize-css-assets-webpack-plugin
+* postcss-loader
+* prettier
+* sass
+* sass-loader
+* style-loader
+* terser-webpack-plugin
+* webpack
+* webpack-cl
+* webpack-dev-server
+* webpack-merge
+* websocket-extensions
+
