@@ -35,3 +35,17 @@ Simple webpack 4 starter kit for basic projects.
 ## Usage
 
 Click on `Use this template` button and follow instructions, next clone it to your desired directory on your computer, go to the project directory in console and type `yarn install`. Now you can start developing your new awesome project 🔥🔥🔥
+
+## Available scripts
+
+`yarn dev` - runs development mode
+
+`yarn build` - runs build process for production
+
+`yarn test` - runs jest tests
+
+`yarn setup-icons` - automates PWA asset generation and image declaration
+
+`yarn test-report` - build coverage report
+
+`yarn publish` - runs build process and publish the page using `gh-pages` branch
