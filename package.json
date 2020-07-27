@@ -15,7 +15,17 @@
     "test:report": "yarn clean-coverage && jest --coverage",
     "publish": "yarn run build && gh-pages -d dist"
   },
-  "keywords": [],
+  "keywords": [
+    "Webpack",
+    "JavaScript",
+    "pwa",
+    "boilerplate",
+    "jest",
+    "babel",
+    "eslint",
+    "prettier",
+    "sass"
+  ],
   "author": "Adrian Karbowniczyn",
   "license": "MIT",
   "devDependencies": {
