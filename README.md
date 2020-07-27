@@ -26,3 +26,8 @@ Simple webpack 4 starter kit for basic projects.
 * Dev server
 * Sourcemaps
 * Icon generator for PWA
+
+## Requirements
+
+* Installed fresh version of [**Node.js**](https://nodejs.org/en/) and [**yarn**](https://yarnpkg.com/)
+>**TIP:** For managing node.js versions I recommend to use [**n**](https://github.com/tj/n) a simple Node.js version management
