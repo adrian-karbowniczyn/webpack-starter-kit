@@ -49,3 +49,47 @@ Click on `Use this template` button and follow instructions, next clone it to yo
 `yarn test-report` - build coverage report
 
 `yarn publish` - runs build process and publish the page using `gh-pages` branch
+
+## Project tree 🌳
+
+```
+.
+├── babel.config.js
+├── jest.config.js
+├── node_modules
+├── package.json
+├── postcss.config.js
+├── public
+│   ├── favicon.ico
+│   ├── manifest.json
+│   ├── pwa
+│   ├── robots.txt
+│   └── service-worker.js
+├── readme.md
+├── src
+│   ├── assets
+│   │   └── img
+│   │       └── logo.svg
+│   ├── js
+│   │   ├── index.js
+│   │   ├── pwa.js
+│   │   └── sum.js
+│   ├── pages
+│   │   └── index.html
+│   ├── sass
+│   │   ├── base
+│   │   │   └── _variables.scss
+│   │   ├── components
+│   │   ├── layout
+│   │   ├── main.scss
+│   │   └── pages
+│   │       └── index.scss
+│   └── tests
+│       └── sum.test.js
+├── webpack
+│   ├── webpack.common.js
+│   ├── webpack.dev.js
+│   └── webpack.prod.js
+└── yarn.lock
+
+```
