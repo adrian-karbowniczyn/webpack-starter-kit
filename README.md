@@ -39,9 +39,7 @@ Click on `Use this template` button and follow instructions, next clone it to yo
 ## Available scripts
 
 `yarn dev` - runs development mode
-
 `yarn build` - runs build process for production
-
 `yarn test` - runs jest tests
 
 `yarn setup-icons` - automates PWA asset generation and image declaration
