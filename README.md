@@ -40,9 +40,8 @@ Click on `Use this template` button and follow instructions, next clone it to yo
 
 `yarn dev` - runs development mode
 `yarn build` - runs build process for production
+`yarn build:icons` - automates PWA asset generation and image declaration
 `yarn test` - runs jest tests
-
-`yarn setup-icons` - automates PWA asset generation and image declaration
 
 `yarn test-report` - build coverage report
 
