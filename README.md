@@ -42,9 +42,7 @@ Click on `Use this template` button and follow instructions, next clone it to yo
 `yarn build` - runs build process for production
 `yarn build:icons` - automates PWA asset generation and image declaration
 `yarn test` - runs jest tests
-
-`yarn test-report` - build coverage report
-
+`yarn test:report` - build coverage report
 `yarn publish` - runs build process and publish the page using `gh-pages` branch
 
 ## Project tree 🌳
