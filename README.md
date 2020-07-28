@@ -45,6 +45,7 @@ Click on `Use this template` button and follow instructions, next clone it to yo
 `yarn test:report` - build coverage report
 `yarn lint` - runs eslint
 `yarn lint:fix` - runs eslint and fix all the problems
+`yarn clean` - clean dist and coverage folders
 `yarn publish` - runs build process and publish the page using `gh-pages` branch
 
 ## Project tree 🌳
